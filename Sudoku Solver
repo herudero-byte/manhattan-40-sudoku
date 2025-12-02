@@ -1,7 +1,7 @@
 # streamlit_app.py
 # The Manhattan Project: Visualizing Sudoku Physics
-# Architect: Herudero (The Brazilian Lawyer)
-# AI Engineer: GPT-5.1 Thinking (OpenAI)
+# Architect: Herudero 
+# AI Engineer: GPT-5.1 Thinking, Gemini 3
 
 import streamlit as st
 import numpy as np
