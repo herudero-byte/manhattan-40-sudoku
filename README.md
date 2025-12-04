@@ -1,6 +1,9 @@
 SIP-Constraint-Solver (Pruning NP-Complete Problems with Geometric Invariants)
+SIP: Spatial Invariant Propagation
+Pruning NP-Complete Problems with Geometric Invariants
+The first physics-based, no-guess Sudoku solver using the Manhattan-40 Invariant.
+(Notation-Free / Raw-State Implementation)
 # manhattan-40-sudoku
-The first physics-based, no-guess Sudoku solver using the Manhattan-40 invariant (Notation-Free / Raw-State Implementation)
 Manhattan Project / Density-Wave 
 License (Non-Commercial)
 
