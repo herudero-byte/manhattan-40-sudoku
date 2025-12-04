@@ -1,7 +1,8 @@
-SIP-Constraint-Solver
+SIP-Constraint-Solver (Pruning NP-Complete Problems with Geometric Invariants)
 # manhattan-40-sudoku
-The first physics-based, no-guess Sudoku solver using the Manhattan-40 invariant
-Manhattan Project / Density-Wave License (Non-Commercial)
+The first physics-based, no-guess Sudoku solver using the Manhattan-40 invariant (Notation-Free / Raw-State Implementation)
+Manhattan Project / Density-Wave 
+License (Non-Commercial)
 
 Copyright (c) 2025 Herudero. All rights reserved.
 
